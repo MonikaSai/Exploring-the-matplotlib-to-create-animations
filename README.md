@@ -14,6 +14,8 @@ However,  out of the two, FuncAnimation is the most convenient one to use. You c
 Modules including 'numpy' and 'matplotlib' should be installed.
 To save the animation on your system as mp4 or gif imagemagick](https://sourceforge.net/projects/imagemagick/files/) is required to be installed.
 
+## Animations
+
 ![Wave](https://user-images.githubusercontent.com/54144435/84998111-4f553500-b147-11ea-8266-0406e680629a.gif)
 
 ![celluloid](https://user-images.githubusercontent.com/54144435/84998224-77449880-b147-11ea-9c92-8d310a035e1b.gif)
